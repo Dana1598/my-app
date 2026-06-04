@@ -1,0 +1,5 @@
+{
+  "name": "GestureOS",
+  "description": "A futuristic operating system interface with gesture-based controls and a static background image.",
+  "requestFramePermissions": []
+}
